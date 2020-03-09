@@ -1,0 +1,215 @@
+IMAGE  5
+QUALITY   5 -------------------------------------
+Elapsed time: 0.02 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 21.41 dB
+
+QUALITY  15 -------------------------------------
+Elapsed time: 0.21 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 25.36 dB
+
+QUALITY  30 -------------------------------------
+Elapsed time: 0.40 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 27.73 dB
+
+QUALITY  50 -------------------------------------
+Elapsed time: 0.61 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 29.59 dB
+
+QUALITY  65 -------------------------------------
+Elapsed time: 0.79 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 30.96 dB
+
+QUALITY  80 -------------------------------------
+Elapsed time: 1.01 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 33.30 dB
+
+QUALITY 100 -------------------------------------
+Elapsed time: 1.22 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 43.21 dB
+
+IMAGE  8
+QUALITY   5 -------------------------------------
+Elapsed time: 0.02 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 21.34 dB
+
+QUALITY  15 -------------------------------------
+Elapsed time: 0.19 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 25.03 dB
+
+QUALITY  30 -------------------------------------
+Elapsed time: 0.35 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 27.53 dB
+
+QUALITY  50 -------------------------------------
+Elapsed time: 0.55 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 29.43 dB
+
+QUALITY  65 -------------------------------------
+Elapsed time: 0.73 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 30.79 dB
+
+QUALITY  80 -------------------------------------
+Elapsed time: 0.90 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 33.13 dB
+
+QUALITY 100 -------------------------------------
+Elapsed time: 1.11 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 43.63 dB
+
+IMAGE 12
+QUALITY   5 -------------------------------------
+Elapsed time: 0.02 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 25.81 dB
+
+QUALITY  15 -------------------------------------
+Elapsed time: 0.18 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 30.18 dB
+
+QUALITY  30 -------------------------------------
+Elapsed time: 0.33 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 32.81 dB
+
+QUALITY  50 -------------------------------------
+Elapsed time: 0.50 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 34.60 dB
+
+QUALITY  65 -------------------------------------
+Elapsed time: 0.68 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 35.71 dB
+
+QUALITY  80 -------------------------------------
+Elapsed time: 0.88 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 37.54 dB
+
+QUALITY 100 -------------------------------------
+Elapsed time: 1.07 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 46.94 dB
+
+IMAGE 15
+QUALITY   5 -------------------------------------
+Elapsed time: 0.02 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 24.70 dB
+
+QUALITY  15 -------------------------------------
+Elapsed time: 0.17 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 29.18 dB
+
+QUALITY  30 -------------------------------------
+Elapsed time: 0.33 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 31.53 dB
+
+QUALITY  50 -------------------------------------
+Elapsed time: 0.50 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 33.07 dB
+
+QUALITY  65 -------------------------------------
+Elapsed time: 0.65 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 34.19 dB
+
+QUALITY  80 -------------------------------------
+Elapsed time: 0.81 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 35.99 dB
+
+QUALITY 100 -------------------------------------
+Elapsed time: 0.98 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 44.37 dB
+
+IMAGE 19
+QUALITY   5 -------------------------------------
+Elapsed time: 0.02 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 24.27 dB
+
+QUALITY  15 -------------------------------------
+Elapsed time: 0.16 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 28.36 dB
+
+QUALITY  30 -------------------------------------
+Elapsed time: 0.34 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 30.69 dB
+
+QUALITY  50 -------------------------------------
+Elapsed time: 0.51 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 32.37 dB
+
+QUALITY  65 -------------------------------------
+Elapsed time: 0.68 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 33.52 dB
+
+QUALITY  80 -------------------------------------
+Elapsed time: 0.86 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 35.45 dB
+
+QUALITY 100 -------------------------------------
+Elapsed time: 1.07 seconds
+Encoded image dimension: 1179.65 kB
+
+PSNR: 46.27 dB
+
